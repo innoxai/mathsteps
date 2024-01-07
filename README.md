@@ -53,7 +53,7 @@ Learn more here: [CONTRIBUTING.md](CONTRIBUTING.md).
 
 First clone the project from github:
 
-    git clone https://github.com/socraticorg/mathsteps.git
+    git clone https://github.com/google/mathsteps.git
     cd mathsteps
 
 Install the project dependencies:
